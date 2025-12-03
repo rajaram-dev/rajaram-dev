@@ -39,10 +39,10 @@ Below are the actual projects and systems I have worked on professionally (fully
 
 ---
 
-## **1️⃣ Prepaid Auto Booking POS System – Metro Stations (2023)**  
-**Tech:** Django, DRF, MySQL, REST API, AWS, Nginx  
-**Role:** Backend Developer + Team Lead  
-Built a POS-integrated auto booking system for metro last-mile commute. Features include slip generation, passenger queue handling, trip dispatching, and multi-station management.  
+## **1️⃣ Maruva – AI RAG Chatbot (2025)**  
+**Tech:** React, FastAPI, MySQL, Pinecone, Redis, Vector DB, n8n, AWS S3  
+**Role:** Full Project Owner**  
+Developed a Retrieval-Augmented Generation chatbot for internal knowledge bases. Includes vector search, embeddings, document ingestion, and workflow automation using n8n.
 
 ---
 
@@ -77,10 +77,10 @@ Built a tendering system for Bangalore Metro to manage applications, bidder eval
 
 ---
 
-## **7️⃣ Maruva – AI RAG Chatbot (2025)**  
-**Tech:** React, FastAPI, MySQL, Pinecone, Redis, Vector DB, n8n, AWS S3  
-**Role:** Full Project Owner**  
-Developed a Retrieval-Augmented Generation chatbot for internal knowledge bases. Includes vector search, embeddings, document ingestion, and workflow automation using n8n.
+## **7️⃣ Prepaid Auto Booking POS System – Metro Stations (2023)**  
+**Tech:** Django, DRF, MySQL, REST API, AWS, Nginx  
+**Role:** Backend Developer + Team Lead  
+Built a POS-integrated auto booking system for metro last-mile commute. Features include slip generation, passenger queue handling, trip dispatching, and multi-station management.  
 
 ---
 
