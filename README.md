@@ -15,21 +15,29 @@ This portfolio website is built using **React + Vite + Tailwind CSS**, and highl
 
 ---
 
-# 📌 Tech Stack Used in Portfolio
+# 📌 Tech Stack Used in This Portfolio
 
 ### **Frontend**
-- React (Vite)
+- React
 - Tailwind CSS
-- React Router
-- Component-based design
 
-### **Backend / API (for contact form / demos)**
-- Node or FastAPI placeholder (optional for now)
+### **Backend / API**
+- Django REST Framework
+- FastAPI
 
-### **DevOps**
-- GitHub Actions (CI)
-- Docker (optional)
-- Vercel (recommended deployment)
+### **Cloud & DevOps**
+- AWS (EC2, RDS, S3, IAM)
+- Docker
+- Kubernetes
+- GitHub Actions (CI/CD)
+- Nginx
+- Linux (Ubuntu)
+
+### **Databases**
+- MySQL
+- Redis
+- Pinecone / Vector Databases
+
 
 ---
 
