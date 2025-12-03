@@ -52,5 +52,5 @@ Production setup with EC2, RDS, S3, Docker, and GitHub Actions.
 ---
 
 ## 📫 Contact Me  
-- **LinkedIn:** https://linkedin.com/in/YOUR-LINK  
-- **Email:** your@email.com  
+- **LinkedIn:** https://www.linkedin.com/in/rajaramrprg  
+- **Email:** rajaramrprg@gmail.com  
