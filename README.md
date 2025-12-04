@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Rajaram  
-# Automation Engineer | Full-Stack Developer | Cloud & DevOps  
+# AI & Automation Engineer | Full-Stack Developer | Cloud & DevOps  
 **n8n • React • Django • FastAPI • MySQL • AWS • Docker • Kubernetes**
 
 Welcome to my portfolio repository!  
